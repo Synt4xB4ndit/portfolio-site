@@ -1,5 +1,5 @@
 import ImageLink from "@/components/ImageLink";
-import NearbyCoffeeShops from "@/components/CoffeeShops";
+//import NearbyCoffeeShops from "@/components/CoffeeShops";
 
 export default function Home(){
   return (

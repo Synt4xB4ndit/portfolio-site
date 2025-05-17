@@ -20,7 +20,7 @@ export default function RootLayout({
 {
   return (
     <html lang='en'>
-      <body className={`{inter.className} flex flex-col min-h-screen`}>
+      <body className={`${inter.className} flex flex-col min-h-screen`}>
         <nav className='bg-gradient-to-r from-indigo-900
          via-blue-700 to-cyan-500 p p-4'>
           <div className="container mx-auto flex justify-between">
@@ -35,10 +35,10 @@ export default function RootLayout({
                href="/" className="text-white
                hover:text-gray-300">Home
              </Link>
-             <a href='/about' className="text-white
+             <Link href='/about' className="text-white
               hover:text-gray-300" >
                 About
-              </a>
+              </Link>
 
               <Link 
               href='/contact' className='text-white
@@ -55,9 +55,7 @@ export default function RootLayout({
 
     <footer className="text-white p-4 mt-8">
         <div className='container mx-auto text-center'>
-          <p> { new
-          Date().getFullYear()} Nicholas Amaral
-          </p>
+        <p>&copy; {new Date().getFullYear()} Nicholas Amaral</p>
         </div>
       </footer>
     

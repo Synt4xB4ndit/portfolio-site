@@ -1,4 +1,6 @@
 import ImageLink from "@/components/ImageLink";
+import './globals.css';
+
 
 export default function Home(){
   return (

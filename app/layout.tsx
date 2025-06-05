@@ -55,7 +55,7 @@ export default function RootLayout({
 
     <footer className="text-white p-4 mt-8">
         <div className='container mx-auto text-center'>
-        <p>&copy; {new Date().getFullYear()} Nicholas Amaral</p>
+        <p>&copy; {new Date().getFullYear()} </p>
         </div>
       </footer>
     

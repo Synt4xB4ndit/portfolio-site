@@ -47,15 +47,15 @@ export default function About() {
           <div className="bg-zinc-800/50 rounded-xl overflow-hidden border border-zinc-700">
             <div className="relative h-48">
               <Image
-                src="https://images.unsplash.com/photo-1562774053-701939374585?w=800&q=80"
-                alt="BCC Campus"
+                src="https://www.kba-architects.com/site/assets/files/1809/exterior_-_front_sunset.1600x0.jpg"
+                alt="Diman RVT High School"
                 fill
                 className="object-cover"
               />
             </div>
             <div className="p-5">
               <h3 className="text-lg font-medium text-white">Diman Regional Vocational Technical High School</h3>
-              <p className="text-zinc-400 text-sm mt-1">[Degree / Program] • [Years]</p>
+              <p className="text-zinc-400 text-sm mt-1">High School Diploma / Welding • 2009 - 2013</p>
             </div>
           </div>
 
@@ -63,7 +63,7 @@ export default function About() {
           <div className="bg-zinc-800/50 rounded-xl overflow-hidden border border-zinc-700">
             <div className="relative h-48">
               <Image
-                src="https://images.unsplash.com/photo-1562774053-701939374585?w=800&q=80"
+                src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBEmJA86wipj6bmWppH0iEayoE_QkVjRarBfiityyl4g&s=10"
                 alt="University Campus"
                 fill
                 className="object-cover"
@@ -71,7 +71,7 @@ export default function About() {
             </div>
             <div className="p-5">
               <h3 className="text-lg font-medium text-white">Bristol Community College</h3>
-              <p className="text-zinc-400 text-sm mt-1">[Degree / Program] • [Years]</p>
+              <p className="text-zinc-400 text-sm mt-1">Associate Degree / Liberal Arts • 2013 - 2016</p>
             </div>
           </div>
 
@@ -79,7 +79,7 @@ export default function About() {
           <div className="bg-zinc-800/50 rounded-xl overflow-hidden border border-zinc-700">
             <div className="relative h-48">
               <Image
-                src="https://images.unsplash.com/photo-1541339907198-e08756dedf3f?w=800&q=80"
+                src="https://www.usnews.com/dims4/USNEWS/8266ac0/17177859217/resize/800x540%3E/quality/85/?url=https%3A%2F%2Fwww.usnews.com%2Fcmsmedia%2Fc8%2Fa52de73b9206d79028d89fbc66a252%2Fcollege-photo_14353.jpg"
                 alt="Southern New Hampshire University campus"
                 fill
                 className="object-cover"
@@ -88,7 +88,7 @@ export default function About() {
             <div className="p-5">
               <h3 className="text-lg font-medium text-white">Southern New Hampshire University</h3>
               <p className="text-zinc-400 text-sm mt-1">
-                [Program / Degree] • [Years]
+                Bachelor Degree / Computer Science • 2024-2027
               </p>
             </div>
           </div>
@@ -103,7 +103,7 @@ export default function About() {
           <div className="relative h-56">
             {/* Replace with your NSLS photo later */}
             <Image
-              src="https://images.unsplash.com/photo-1567427017947-545c5f8d16ad?w=800&q=80"
+              src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQGrg68HhY6AD-NruK4SQllVQos9HC8HYK0IeM5mclR6w&s=10"
               alt="NSLS recognition"
               fill
               className="object-cover"

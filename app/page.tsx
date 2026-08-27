@@ -11,25 +11,28 @@ export default function Home() {
       </p>
 
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
-        {/* Project 1 */}
+        {/* Project 1 - Moonwear */}
         <ImageLink
-          href="www.moonwear.shop"
-          imageSrc="moonwear.png"
-          alt="Mountain landscape project"
+          href="https://www.moonwear.shop"
+          imageSrc="/moonwear.png"
+          alt="Moonwear store"
+          priority
         />
 
-        {/* Project 2 */}
+        {/* Project 2 - Coffee Shop Finder */}
         <ImageLink
-          href="coffee-shops-six.vercel.app"
-          imageSrc="coffeeshops.png"
-          alt="Wind turbines and road"
+          href="https://coffee-shops-six.vercel.app"
+          imageSrc="/coffeeshops.png"
+          alt="Coffee Shop Finder"
+          priority
         />
 
-        {/* Project 3 */}
+        {/* Project 3 - Job Aggregator */}
         <ImageLink
           href="https://job-aggr-frontend.vercel.app/"
-          imageSrc="jobaggr.png"
-          alt="Laptop workspace"
+          imageSrc="/jobaggr.png"
+          alt="Job Aggregator"
+          priority
         />
 
         {/* Project 4 */}
@@ -39,14 +42,14 @@ export default function Home() {
           alt="Vintage blue Volkswagen van"
         />
 
-        {/* Project 5 - NEW */}
+        {/* Project 5 */}
         <ImageLink
           href="https://example.com/project5"
           imageSrc="https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80"
           alt="Code on screen"
         />
 
-        {/* Project 6 - NEW */}
+        {/* Project 6 */}
         <ImageLink
           href="https://example.com/project6"
           imageSrc="https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=800&q=80"

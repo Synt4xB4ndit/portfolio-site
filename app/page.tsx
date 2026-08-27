@@ -13,22 +13,22 @@ export default function Home() {
       <div className="grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6">
         {/* Project 1 */}
         <ImageLink
-          href="https://example.com"
-          imageSrc="https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=800&q=80"
+          href="www.moonwear.shop"
+          imageSrc="moonwear.png"
           alt="Mountain landscape project"
         />
 
         {/* Project 2 */}
         <ImageLink
-          href="https://github.com"
-          imageSrc="https://images.unsplash.com/photo-1466611653911-95081537e5b7?w=800&q=80"
+          href="coffee-shops-six.vercel.app"
+          imageSrc="coffeeshops.png"
           alt="Wind turbines and road"
         />
 
         {/* Project 3 */}
         <ImageLink
-          href="https://x.com"
-          imageSrc="https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=800&q=80"
+          href="https://job-aggr-frontend.vercel.app/"
+          imageSrc="jobaggr.png"
           alt="Laptop workspace"
         />
 

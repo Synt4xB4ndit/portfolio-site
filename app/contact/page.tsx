@@ -20,7 +20,7 @@ export default function Contact() {
           <div>
             <p className="text-sm text-zinc-400">Email</p>
             <p className="text-white font-medium group-hover:text-cyan-400 transition-colors">
-              your.email@example.com
+              Namaral1995@gmail.com 
             </p>
           </div>
         </a>
@@ -38,7 +38,7 @@ export default function Contact() {
           <div>
             <p className="text-sm text-zinc-400">GitHub</p>
             <p className="text-white font-medium group-hover:text-cyan-400 transition-colors">
-              github.com/yourusername
+              github.com/NicSNHU?tab=repositories
             </p>
           </div>
         </a>
@@ -56,7 +56,7 @@ export default function Contact() {
           <div>
             <p className="text-sm text-zinc-400">LinkedIn</p>
             <p className="text-white font-medium group-hover:text-cyan-400 transition-colors">
-              linkedin.com/in/yourusername
+              https://www.linkedin.com/in/nicholas-amaral-a47ba8222
             </p>
           </div>
         </a>

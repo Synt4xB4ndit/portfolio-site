@@ -124,15 +124,11 @@ export default function About() {
         <ul className="space-y-3 text-zinc-300">
           <li className="flex items-start gap-3">
             <span className="text-cyan-400 mt-1">▹</span>
-            <span>[Club / Community Name] – [Your role or short description]</span>
+            <span>NSLS</span>
           </li>
           <li className="flex items-start gap-3">
             <span className="text-cyan-400 mt-1">▹</span>
-            <span>[Another club or online community]</span>
-          </li>
-          <li className="flex items-start gap-3">
-            <span className="text-cyan-400 mt-1">▹</span>
-            <span>[Optional third item]</span>
+            <span>Keystone - Community Engagement</span>
           </li>
         </ul>
       </section>
@@ -142,19 +138,12 @@ export default function About() {
         <h2 className="text-2xl font-semibold text-white mb-6">Experience</h2>
         <div className="space-y-8">
           <div>
-            <h3 className="text-lg font-medium text-white">[Job / Role Title]</h3>
-            <p className="text-cyan-400 text-sm">[Company or Project] • [Dates]</p>
-            <p className="text-zinc-400 mt-2">
-              Short description of what you did and the impact.
-            </p>
+            <h3 className="text-lg font-medium text-white">Freelance & Personal Projects</h3>
           </div>
 
           <div>
-            <h3 className="text-lg font-medium text-white">[Another Role or Project]</h3>
-            <p className="text-cyan-400 text-sm">[Company / Personal] • [Dates]</p>
-            <p className="text-zinc-400 mt-2">
-              Another short description.
-            </p>
+            <h3 className="text-lg font-medium text-white">Projects from University Curriculum</h3>
+            <p className="text-cyan-400 text-sm"></p>
           </div>
         </div>
       </section>

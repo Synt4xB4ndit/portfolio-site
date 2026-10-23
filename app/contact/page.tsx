@@ -27,7 +27,7 @@ export default function Contact() {
 
         {/* GitHub */}
         <a
-          href="https://github.com/yourusername"
+          href="github.com/NicSNHU?tab=repositories"
           target="_blank"
           rel="noopener noreferrer"
           className="flex items-center gap-4 p-5 bg-zinc-800/60 hover:bg-zinc-800 border border-zinc-700 rounded-xl transition-colors group"
@@ -45,7 +45,7 @@ export default function Contact() {
 
         {/* LinkedIn */}
         <a
-          href="https://linkedin.com/in/yourusername"
+          href="https://www.linkedin.com/in/nicholas-amaral-a47ba8222"
           target="_blank"
           rel="noopener noreferrer"
           className="flex items-center gap-4 p-5 bg-zinc-800/60 hover:bg-zinc-800 border border-zinc-700 rounded-xl transition-colors group"

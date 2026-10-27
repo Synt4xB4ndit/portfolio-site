@@ -29,6 +29,10 @@ export default function About() {
             "OOP",
             "Agile",
             "SDLC",
+            "Java",
+            "Maven",
+            "C++",
+            "Python",
             // Add more as needed
           ].map((skill) => (
             <span

@@ -26,6 +26,9 @@ export default function About() {
             "HTML / CSS",
             "Git",
             "Node.js",
+            "OOP",
+            "Agile",
+            "SDLC",
             // Add more as needed
           ].map((skill) => (
             <span

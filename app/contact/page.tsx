@@ -27,7 +27,7 @@ export default function Contact() {
 
         {/* GitHub */}
         <a
-          href="github.com/NicSNHU?tab=repositories"
+          href="https://github.com/NicSNHU?tab=repositories"
           target="_blank"
           rel="noopener noreferrer"
           className="flex items-center gap-4 p-5 bg-zinc-800/60 hover:bg-zinc-800 border border-zinc-700 rounded-xl transition-colors group"
@@ -38,7 +38,7 @@ export default function Contact() {
           <div>
             <p className="text-sm text-zinc-400">GitHub</p>
             <p className="text-white font-medium group-hover:text-cyan-400 transition-colors">
-              github.com/NicSNHU?tab=repositories
+              Check out my University GitHub
             </p>
           </div>
         </a>
@@ -56,7 +56,7 @@ export default function Contact() {
           <div>
             <p className="text-sm text-zinc-400">LinkedIn</p>
             <p className="text-white font-medium group-hover:text-cyan-400 transition-colors">
-              https://www.linkedin.com/in/nicholas-amaral-a47ba8222
+              Visit me on LinkedIn
             </p>
           </div>
         </a>

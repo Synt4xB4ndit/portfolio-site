@@ -34,27 +34,6 @@ export default function Home() {
           alt="Job Aggregator"
           priority
         />
-
-        {/* Project 4 */}
-        <ImageLink
-          href="https://example.com/project4"
-          imageSrc="https://images.unsplash.com/photo-1533473359331-0135ef1b58bf?w=800&q=80"
-          alt="Vintage blue Volkswagen van"
-        />
-
-        {/* Project 5 */}
-        <ImageLink
-          href="https://example.com/project5"
-          imageSrc="https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&q=80"
-          alt="Code on screen"
-        />
-
-        {/* Project 6 */}
-        <ImageLink
-          href="https://example.com/project6"
-          imageSrc="https://images.unsplash.com/photo-1555949963-aa79dcee981c?w=800&q=80"
-          alt="Modern desk setup"
-        />
       </div>
     </div>
   );
